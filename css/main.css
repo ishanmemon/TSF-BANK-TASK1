@@ -1,0 +1,17 @@
+body{
+    font-family: 'Arvo', serif;
+}
+.buttoncircle{
+    border-radius: 50%;
+}
+a.navhover:hover{
+    font-size: 115%;
+}
+h3.hhover:hover{
+    font-size: 200%;
+    font-style: italic;
+}
+button.transferhover:hover{
+    background-color: rgb(68, 66, 66);
+    color: white;
+}
